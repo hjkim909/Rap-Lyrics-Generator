@@ -8,3 +8,4 @@
 
 * LSTM 모델로 주어진 가사 학습 후 새로운 가사 Generating
 > * 최초로 일정 숫자의 text 랜덤하게 생성 후 과거 텍스트의 순서를 반영해 다음 글자 예측을 반복 
+> > * Char-level langauge model
