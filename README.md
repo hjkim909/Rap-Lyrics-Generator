@@ -1,5 +1,5 @@
 # Rap-Lyrics-Generator
-2019-2 'NLP and Deep Learning' Class Project
+
 ### 한국 가요 가사를 바탕으로 새로운 가사를 생성하는 모델
 * 멜론에서 BeautifulSoup를 활용해 모든 장르의 가사 10000개 수집
 > * 랩 가사는 비문과 영어가 너무 섞여 제대로 된 가사가 생성되지 못함
